@@ -1,4 +1,4 @@
-import { faker } from '@faker-js/faker'
+import faker from 'faker'
 
 describe('Criar uma Issue em um Repositorio no GitHub', () => {
     const token = Cypress.env('acesstoken') // Obtém o token de acesso do GitHub das variáveis de ambiente

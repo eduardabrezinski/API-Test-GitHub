@@ -1,4 +1,4 @@
-import { faker } from '@faker-js/faker'
+import faker from 'faker'
 
 describe('Excluir todos os repositórios no GitHub via API', () => {
   const token = Cypress.env('acesstoken') // Token de autenticação do GitHub

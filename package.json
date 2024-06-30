@@ -11,6 +11,8 @@
   "keywords": [],
   "description": "",
   "devDependencies": {
-    "cypress": "^13.12.0"
+    "cypress": "^13.12.0",
+    "cypress-plugin-api": "^2.11.1",
+    "faker": "^5.5.3"
   }
 }
