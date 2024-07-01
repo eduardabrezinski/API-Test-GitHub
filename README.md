@@ -1,7 +1,4 @@
-Claro! Abaixo está um exemplo de `README.md` para o projeto de teste de API no GitHub, incluindo os passos necessários para execução dos testes Cypress para a API do GitHub:
-
 ---
-
 # Testes Cypress para GitHub API
 
 Este projeto contém testes automatizados utilizando Cypress para interagir com a API do GitHub.
